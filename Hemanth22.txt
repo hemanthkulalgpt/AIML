@@ -1,0 +1,7 @@
+class hello{
+ public static void main(String args[]){
+ integer abj=new integer(5);
+ int a=abj.int value();
+ int b=abj;
+ system.out.println(a);
+ system .out println(b);
